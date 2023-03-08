@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/relief-kits.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2022-07-16T08:31:27-07:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7309333364928</id>
+    <published>2022-07-16T08:31:27-07:00</published>
+    <updated>2022-07-16T08:31:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-kit-for-cats"/>
+    <title>GI Relief Kit For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_giReliefKit_cat_cover_2d0fb99d-ef46-4937-8038-1e834df27aea.png?v=1658189656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9d112a7bb9012088fa6d" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9d112a7bb9012088fa6d" data-shogun-page-version-id="63ae1a049b1b8b00e37ea55b" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae1a049b1b8b00e37ea562" data-region="main">
+  
+<div id="s-064570a7-f693-46a9-8bcb-4e144148e1d9" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>FOR USE WITH A <a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></p>
+<p>Provides relief of clinical signs associated with gastrointestinal symptoms including: diarrhea, hairballs, vomiting, regurgitation, gas, and bad breath in cats. Each kit contains a 15 day supply of GI Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the GI Relief Kit as a microbiome-friendly alternative to traditional GI relief treatments like metronidazole.Both supplements contain small-sized capsules for cats.</p>
+<p> </p>
+<p><span style="font-size: 18px;"><strong>This product will ship in 5-10 business days.</strong></span></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309333364928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AB-VRKCL015CPN-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309335462080</id>
+    <published>2022-07-16T08:30:21-07:00</published>
+    <updated>2022-07-16T08:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-kit-for-dogs"/>
+    <title>GI Relief Kit For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_giReliefKit_dog_L_cover.png?v=1658174839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9d749eba53010c590401" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9d749eba53010c590401" data-shogun-page-version-id="63ae19d7844d7e00e9a03bef" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae19d7844d7e00e9a03bf6" data-region="main">
+  
+<div id="s-c688d5b5-64c3-4856-930d-57821c2faf4b" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-weight: 400;"><strong>FOR USE WITH A <a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></span></p>
+<p><span style="font-weight: 400;">Provides relief of clinical signs associated with gastrointestinal symptoms including:diarrhea, vomiting, regurgitation, gas, and bad breath in dogs. Each kit contains a 15 day supply of GI Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the GI Relief Kit as a microbiome-friendly alternative to traditional GI relief treatments like metronidazole. Available in large dog (large capsule) and small dog (small capsule) options.</span></p>
+<p><span style="font-weight: 400;"><span style="font-size: 18px;"><strong>This product will ship in 5-10 business days.</strong></span></span></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309335462080</id>
+      <title>Dogs Over 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPL-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309335462080</id>
+      <title>Dogs Under 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPS-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309440712896</id>
+    <published>2022-07-16T08:22:53-07:00</published>
+    <updated>2022-07-16T08:22:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/skin-coat-relief-kit-for-cats"/>
+    <title>Skin &amp; Coat Relief Kit For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_scReliefKit_cat_cover_new.png?v=1658175568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong data-mce-fragment="1">FOR USE WITH A<span data-mce-fragment="1"> </span><a href="https://animalbiome.vet/collections/test-kits" data-mce-fragment="1" data-mce-href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong> </p>
+<p><meta charset="utf-8"><span>Provides relief of clinical signs associated with dermatological symptoms including: pruritus, atopy, hot spots, and otitis in cats. Each kit contains a 15 day supply of Skin &amp; Coat Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the Skin &amp; Coat Relief Kit as a microbiome-friendly alternative to traditional skin and coat relief treatments. Both supplements contain small-sized capsules for cats.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309440712896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AB-VRKCL015CPN-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309358399680</id>
+    <published>2022-07-16T08:12:33-07:00</published>
+    <updated>2022-07-16T08:12:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/skin-coat-relief-kit-for-dogs"/>
+    <title>Skin &amp; Coat Relief Kit For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_scReliefKit_dog_L_cover_new.png?v=1658175134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"><meta charset="utf-8">
+<strong>FOR USE WITH A<span> </span><a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></span></p>
+<p><span style="font-weight: 400;">Provides relief of clinical signs associated with dermatological symptoms including: pruritus, atopy, hot spots, and otitis in dogs. Each kit contains a 15 day supply of Skin &amp; Coat Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the Skin &amp; Coat Relief Kit as a microbiome-friendly alternative to traditional skin and coat relief treatments. <meta charset="utf-8"> <span data-mce-fragment="1">Available</span><span data-mce-fragment="1"> in large dog (large capsule) and small dog (small capsule) options.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309358399680</id>
+      <title>Dogs Over 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPL-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309358399680</id>
+      <title>Dogs Under 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPS-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

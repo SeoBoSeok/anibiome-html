@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/for-dogs.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2023-01-22T23:12:44-08:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7408252813504</id>
+    <published>2023-01-22T23:12:44-08:00</published>
+    <updated>2023-01-22T23:12:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-capsules-for-dogs"/>
+    <title>GI Relief Capsules For Dogs</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gir_dog_s_60_cover.png?v=1669182028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="60ebc7bd373b9f00ca1a58f6" data-shogun-platform-type="shopify" data-shogun-page-version-id="60ebc7bd373b9f00ca1a584c" data-shogun-page-id="60ebc6e4117fa400d65ce2fd" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60ebc6e4117fa400d65ce2fd" class="shogun-root">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div class="shg-c" id="s-106acc71-b6c1-4f2c-a819-fb213b711eed">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Triple Action Diarrhea Relief for Dogs. A unique blend of phages, prebiotics, and probiotics–GIR is designed to stop occasional diarrhea flare-ups. Reduces diarrhea caused by antibiotics, <em>C. difficile</em>, or <em>E. coli</em>. 60 capsules per bottle.</span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7408252813504</id>
+      <title>60 Capsules / Small Capsule (For Dogs Under 20lbs)</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>AB-VSIDL060CPS-GI</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7408252813504</id>
+      <title>60 Capsules / Large Capsule (For Dogs Over 20lbs)</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>AB-VSIDL060CPL-GI</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7333051465920</id>
+    <published>2022-08-22T14:39:50-07:00</published>
+    <updated>2022-08-22T14:39:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/oral-cleanse-powder-for-dogs"/>
+    <title>Oral Cleanse Powder For Dogs</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_oralCleanse_dog_cover.png?v=1660350908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="61a96e83886e0400cee2378d" data-shogun-platform-type="shopify" data-shogun-page-version-id="61a96e83886e0400cee236f9" data-shogun-page-id="61a6abb5fead3000efc1bf08" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="61a6abb5fead3000efc1bf08" class="shogun-root">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div class="shg-c" id="s-23900a3a-390c-49d2-ac40-6f31bb92bbc0">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Prebiotic bacteriophage formula designed to improve bad breath, reduce plaque, and decrease harmful </span><i data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">E. coli</span></i><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> in the dog’s mouth. <meta charset="utf-8">This supplement is intended for dogs with an overgrowth of<span data-mce-fragment="1"> </span><i data-mce-fragment="1">E. coli</i><span data-mce-fragment="1"> </span>bacteria identified by an Oral Microbiome Health Test.</span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7333051465920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AB-VSIDD060PWN-OC</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309335462080</id>
+    <published>2022-07-16T08:30:21-07:00</published>
+    <updated>2022-07-16T08:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-kit-for-dogs"/>
+    <title>GI Relief Kit For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_giReliefKit_dog_L_cover.png?v=1658174839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9d749eba53010c590401" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9d749eba53010c590401" data-shogun-page-version-id="63ae19d7844d7e00e9a03bef" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae19d7844d7e00e9a03bf6" data-region="main">
+  
+<div id="s-c688d5b5-64c3-4856-930d-57821c2faf4b" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-weight: 400;"><strong>FOR USE WITH A <a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></span></p>
+<p><span style="font-weight: 400;">Provides relief of clinical signs associated with gastrointestinal symptoms including:diarrhea, vomiting, regurgitation, gas, and bad breath in dogs. Each kit contains a 15 day supply of GI Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the GI Relief Kit as a microbiome-friendly alternative to traditional GI relief treatments like metronidazole. Available in large dog (large capsule) and small dog (small capsule) options.</span></p>
+<p><span style="font-weight: 400;"><span style="font-size: 18px;"><strong>This product will ship in 5-10 business days.</strong></span></span></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309335462080</id>
+      <title>Dogs Over 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPL-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309335462080</id>
+      <title>Dogs Under 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPS-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309358399680</id>
+    <published>2022-07-16T08:12:33-07:00</published>
+    <updated>2022-07-16T08:12:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/skin-coat-relief-kit-for-dogs"/>
+    <title>Skin &amp; Coat Relief Kit For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_scReliefKit_dog_L_cover_new.png?v=1658175134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"><meta charset="utf-8">
+<strong>FOR USE WITH A<span> </span><a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></span></p>
+<p><span style="font-weight: 400;">Provides relief of clinical signs associated with dermatological symptoms including: pruritus, atopy, hot spots, and otitis in dogs. Each kit contains a 15 day supply of Skin &amp; Coat Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the Skin &amp; Coat Relief Kit as a microbiome-friendly alternative to traditional skin and coat relief treatments. <meta charset="utf-8"> <span data-mce-fragment="1">Available</span><span data-mce-fragment="1"> in large dog (large capsule) and small dog (small capsule) options.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309358399680</id>
+      <title>Dogs Over 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPL-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309358399680</id>
+      <title>Dogs Under 20lbs</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>AB-VRKDL015CPS-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7266107228352</id>
+    <published>2022-05-18T15:35:46-07:00</published>
+    <updated>2022-05-18T15:35:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gut-cleanse-powder-for-dogs"/>
+    <title>Gut Cleanse Powder For Dogs (Pumpkin Flavored)</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutCleanse_dog_cover.png?v=1660351483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="61a96c369f42ed011e772778" data-shogun-platform-type="shopify" data-shogun-page-version-id="61a96c369f42ed011e7726ce" data-shogun-page-id="61798407ac7c4000ea8923de" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="61798407ac7c4000ea8923de" class="shogun-root">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div class="shg-c" id="s-2d0cd50b-e4d1-4422-a35e-afbf0ea49040">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<div class="shg-rich-text shg-theme-text-content">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong> <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Prebiotic phage designed to reduce unhealthy levels of </span><i data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">E. coli</span></i><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> in the gut microbiome. This supplement is intended for dogs with an overgrowth of </span><i data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">E. coli</span></i><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> bacteria identified by a Gut Microbiome Health Test.</span></p>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7266107228352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>AB-VSIDL060PWN-PM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7245649084608</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-bulk-pack-20"/>
+    <title>Gut Health Test - 20 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_20.png?v=1657512984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            1980.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-region="main">
+<div id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e" class="shg-c">
+<div data-region="main" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-shogun-platform-type="shopify" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60da049703beca00d434ae22" class="shogun-root">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div class="shg-c" id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 20-Test Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGDL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Dog Tests &amp; 5 Cat Test</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-01</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>10 Cat Tests &amp; 10 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-02</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-03</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Cat Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGCL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7245384876224</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack-10"/>
+    <title>Gut Health Test - 10 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_10.png?v=1657512951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-shogun-platform-type="shopify" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60ebdff3373b9f00ea1b150d" class="shogun-root">
+<div class="shg-c" id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-platform-type="shopify" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 10 Pack Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGDL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>5 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGML010GTN-03</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Cat Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGCL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7139405824192</id>
+    <published>2022-03-01T09:27:08-08:00</published>
+    <updated>2022-03-01T09:27:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-raw-fed-fmt-for-dogs"/>
+    <title>Raw-Fed FMT Capsules For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_dog_30_S_rawFed_cover.png?v=1657521884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our science-backed supplement provides thousands of healthy dog-specific bacteria to restore dog health and relieve digestive, skin, and immune health issues.<br><meta charset="utf-8"></p>
+<p>This product contains FMT material from naturally reared dogs raised on raw-fed diets and never treated with antibiotics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Secret Menu Item</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7139405824192</id>
+      <title>Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSIDP030CPL-NR</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7139405824192</id>
+      <title>Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSIDP030CPS-NR</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018468475072</id>
+    <published>2021-12-09T11:19:17-08:00</published>
+    <updated>2021-12-09T11:19:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/teef-drinkable-prebiotic-powder-for-dogs"/>
+    <title>TEEF! Drinkable Prebiotic Powder For Dogs</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_teef.png?v=1641813498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ef6aedf1cbd600d0a7238f" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ef6aedf1cbd600d0a7238f" data-shogun-page-version-id="60ef6aedf1cbd600d0a72397" data-shogun-platform-type="shopify" data-shogun-variant-id="60ef6aedf1cbd600d0a7239b" data-region="main">
+<div id="s-4067f6e2-26e0-4a22-8ced-137d67cd46d1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<span style="font-weight: 400;">Primal Health’s TEEF! is an award-winning, veterinarian-approved daily dental care regimen. </span><span style="font-weight: 400;">It is a human-grade prebiotic powder you add to the dog’s drinking water.</span>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018468475072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>TF-VSIDD001TFN-00</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018467164352</id>
+    <published>2021-12-09T11:19:16-08:00</published>
+    <updated>2021-12-09T11:19:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-s-boulardii-fos-powder-for-dogs"/>
+    <title>S. boulardii + FOS Powder For Dogs</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_sbou_dog_cover.png?v=1660351343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="62deeedba34d2600f16429d6" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="62deeedba34d2600f16429d6" data-shogun-page-version-id="63ae17a312e2b101112b0fb7" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae17a312e2b101112b0fbe" data-region="main">
+  
+<div id="s-eebaf32f-046a-4e7d-bbac-2693ee8db65f" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content"><p><span style="font-weight: 400;">A probiotic and prebiotic powder for dogs, designed to improve stool consistency, reduce diarrhea, promote healthy skin, and support gut function</span><strong>. </strong><span style="font-weight: 400;">Recommended for daily use.</span></p></div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018467164352</id>
+      <title>60g (for dogs over 35 lbs)</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>AB-VSIDD060PWN-00</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018470015168</id>
+    <published>2021-12-09T11:19:14-08:00</published>
+    <updated>2021-12-09T11:19:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-canine"/>
+    <title>Powdered Fecal Material for Transplant via Enema (Canine)</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_enema_dog_15g_cover.png?v=1659483588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            62.50 - 291.67
+            <a href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-canine">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our powdered canine fecal material is sourced from extensively screened healthy dog donors and used for fecal transplants via enema by veterinarians.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>15g</title>
+      <s:price currency="USD">62.50</s:price>
+      <s:sku>AB-VSIDL015ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>30g</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AB-VSIDL030ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>50g</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDL050ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>75g</title>
+      <s:price currency="USD">166.67</s:price>
+      <s:sku>AB-VSIDL075ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>100g</title>
+      <s:price currency="USD">208.33</s:price>
+      <s:sku>AB-VSIDL100ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>150g</title>
+      <s:price currency="USD">291.67</s:price>
+      <s:sku>AB-VSIDL150ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018468606144</id>
+    <published>2021-12-09T11:19:14-08:00</published>
+    <updated>2021-12-09T11:19:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/oral-microbiome-health-test-for-dogs"/>
+    <title>Oral Microbiome Health Test For Dogs</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_oralHealthTest_dog.png?v=1661965942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebdde155253d00e3670eb1" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdde155253d00e3670eb1" data-shogun-page-version-id="60ebde3855253d00f9668399" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebde3855253d00f96683fd" data-region="main">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong>Our Oral Microbiome Health Test analyzes the bacteria in the dog’s mouth to assess their oral health. Poor oral health can cause bad breath, gum disease, tooth loss, and other health issues.</p>
+</div>
+<div class="shogun-root" data-shogun-id="60ebdde155253d00e3670eb1" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdde155253d00e3670eb1" data-shogun-page-version-id="60ebde3855253d00f9668399" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebde3855253d00f96683fd" data-region="main">
+<div id="s-d4a4d923-b18e-440c-8768-7b8ac92d6e8d" class="shg-c"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018468606144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VBODL001OTN-00</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469621952</id>
+    <published>2021-12-09T11:19:10-08:00</published>
+    <updated>2021-12-09T11:19:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-dogs"/>
+    <title>FMT Gut Restore Capsules For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_dog_30_S_cover.png?v=1657521491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            125.00 - 225.00
+            <a href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-dogs">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Our science-backed supplement provides thousands of healthy native bacteria to restore dog health and relieve digestive, skin, and immune health issues.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>30 Capsules / Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDP030CPL-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>30 Capsules / Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDP030CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>60 Capsules / Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>AB-VSIDP060CPL-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>60 Capsules / Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>AB-VSIDP060CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469294272</id>
+    <published>2021-12-09T11:19:09-08:00</published>
+    <updated>2021-12-09T11:19:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-for-dogs"/>
+    <title>Gut Health Test For Dogs</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_dog.png?v=1657513149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Find out what’s really going on inside the dog’s digestive system. This test detects bacterial imbalances and provides actionable insights for personalized diet, supplement, or lifestyle changes to improve the dog’s health.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469294272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VSIDL001GTN-00</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469097664</id>
+    <published>2021-12-09T11:19:08-08:00</published>
+    <updated>2021-12-09T11:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack"/>
+    <title>Gut Health Test - 5 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_5.png?v=1657513040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGDL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Dog Tests &amp; 1 Cat Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-01</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Dog Tests &amp; 2 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-02</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Cat Tests &amp; 2 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-03</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Cat Tests &amp; 1 Dog Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-04</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGCL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

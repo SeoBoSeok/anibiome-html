@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/test-kits.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2022-04-30T19:14:28-07:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7245649084608</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-bulk-pack-20"/>
+    <title>Gut Health Test - 20 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_20.png?v=1657512984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            1980.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-region="main">
+<div id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e" class="shg-c">
+<div data-region="main" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-shogun-platform-type="shopify" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60da049703beca00d434ae22" class="shogun-root">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div class="shg-c" id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 20-Test Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGDL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Dog Tests &amp; 5 Cat Test</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-01</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>10 Cat Tests &amp; 10 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-02</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-03</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Cat Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGCL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7245384876224</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack-10"/>
+    <title>Gut Health Test - 10 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_10.png?v=1657512951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-shogun-platform-type="shopify" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60ebdff3373b9f00ea1b150d" class="shogun-root">
+<div class="shg-c" id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-platform-type="shopify" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 10 Pack Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGDL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>5 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGML010GTN-03</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Cat Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGCL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018468606144</id>
+    <published>2021-12-09T11:19:14-08:00</published>
+    <updated>2021-12-09T11:19:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/oral-microbiome-health-test-for-dogs"/>
+    <title>Oral Microbiome Health Test For Dogs</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_oralHealthTest_dog.png?v=1661965942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebdde155253d00e3670eb1" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdde155253d00e3670eb1" data-shogun-page-version-id="60ebde3855253d00f9668399" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebde3855253d00f96683fd" data-region="main">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong>Our Oral Microbiome Health Test analyzes the bacteria in the dog’s mouth to assess their oral health. Poor oral health can cause bad breath, gum disease, tooth loss, and other health issues.</p>
+</div>
+<div class="shogun-root" data-shogun-id="60ebdde155253d00e3670eb1" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdde155253d00e3670eb1" data-shogun-page-version-id="60ebde3855253d00f9668399" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebde3855253d00f96683fd" data-region="main">
+<div id="s-d4a4d923-b18e-440c-8768-7b8ac92d6e8d" class="shg-c"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018468606144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VBODL001OTN-00</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469294272</id>
+    <published>2021-12-09T11:19:09-08:00</published>
+    <updated>2021-12-09T11:19:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-for-dogs"/>
+    <title>Gut Health Test For Dogs</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_dog.png?v=1657513149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Find out what’s really going on inside the dog’s digestive system. This test detects bacterial imbalances and provides actionable insights for personalized diet, supplement, or lifestyle changes to improve the dog’s health.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469294272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VSIDL001GTN-00</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469228736</id>
+    <published>2021-12-09T11:19:08-08:00</published>
+    <updated>2021-12-09T11:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-for-cats"/>
+    <title>Gut Health Test For Cats</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_cat.png?v=1657513065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebd5f5117fa400d65d3cfe" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebd5f5117fa400d65d3cfe" data-shogun-page-version-id="60ebd65455253d00f9665913" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebd65455253d00f96659bb" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-4585a6bf-0e52-4d9a-bbdf-c53d767cbaba" class="shg-c">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-platform-type="shopify" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-region="main">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content">Find out what’s really going on inside the cat’s digestive system. This test detects bacterial imbalances and provides actionable insights for personalized diet, supplement, or lifestyle changes to improve the cat’s health.</p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469228736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VSICL001GTN-00</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469097664</id>
+    <published>2021-12-09T11:19:08-08:00</published>
+    <updated>2021-12-09T11:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack"/>
+    <title>Gut Health Test - 5 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_5.png?v=1657513040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGDL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Dog Tests &amp; 1 Cat Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-01</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Dog Tests &amp; 2 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-02</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Cat Tests &amp; 2 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-03</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Cat Tests &amp; 1 Dog Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-04</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGCL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

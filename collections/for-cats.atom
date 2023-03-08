@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/for-cats.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2023-01-22T23:12:45-08:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7408307372224</id>
+    <published>2023-01-22T23:12:45-08:00</published>
+    <updated>2023-01-22T23:12:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-capsules-for-cats"/>
+    <title>GI Relief Capsules For Cats</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gir_cat_60_cover.png?v=1669183748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="60ebc7bd373b9f00ca1a58f6" data-shogun-platform-type="shopify" data-shogun-page-version-id="60ebc7bd373b9f00ca1a584c" data-shogun-page-id="60ebc6e4117fa400d65ce2fd" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60ebc6e4117fa400d65ce2fd" class="shogun-root">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div class="shg-c" id="s-106acc71-b6c1-4f2c-a819-fb213b711eed">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Triple Action Diarrhea Relief for Cats. A unique blend of phages, prebiotics, and probiotics–GIR is designed to stop occasional diarrhea flare-ups. Reduces diarrhea caused by antibiotics, <em>C. difficile</em>, or <em>E. coli</em>. 60 capsules per bottle.</span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7408307372224</id>
+      <title>60 Capsules</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>AB-VSICL060CPN-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7333022597312</id>
+    <published>2022-08-22T14:41:08-07:00</published>
+    <updated>2022-08-22T14:41:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/oral-cleanse-powder-for-cats"/>
+    <title>Oral Cleanse Powder For Cats</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_oralCleanse_cat_cover.png?v=1660349869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="61a6abb5fead3000efc1bf08" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="61a6abb5fead3000efc1bf08" data-shogun-page-version-id="61a96e83886e0400cee236f9" data-shogun-platform-type="shopify" data-shogun-variant-id="61a96e83886e0400cee2378d" data-region="main">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div id="s-23900a3a-390c-49d2-ac40-6f31bb92bbc0" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Prebiotic bacteriophage formula designed to improve bad breath, reduce plaque, and decrease harmful </span><i data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">E. coli</span></i><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> in the cat’s mouth (when identified by an </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Oral Microbiome Health Test).</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7333022597312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>AB-VSICD030PWN-OC</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309333364928</id>
+    <published>2022-07-16T08:31:27-07:00</published>
+    <updated>2022-07-16T08:31:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gi-relief-kit-for-cats"/>
+    <title>GI Relief Kit For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_giReliefKit_cat_cover_2d0fb99d-ef46-4937-8038-1e834df27aea.png?v=1658189656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9d112a7bb9012088fa6d" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9d112a7bb9012088fa6d" data-shogun-page-version-id="63ae1a049b1b8b00e37ea55b" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae1a049b1b8b00e37ea562" data-region="main">
+  
+<div id="s-064570a7-f693-46a9-8bcb-4e144148e1d9" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>FOR USE WITH A <a href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong></p>
+<p>Provides relief of clinical signs associated with gastrointestinal symptoms including: diarrhea, hairballs, vomiting, regurgitation, gas, and bad breath in cats. Each kit contains a 15 day supply of GI Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the GI Relief Kit as a microbiome-friendly alternative to traditional GI relief treatments like metronidazole.Both supplements contain small-sized capsules for cats.</p>
+<p> </p>
+<p><span style="font-size: 18px;"><strong>This product will ship in 5-10 business days.</strong></span></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309333364928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AB-VRKCL015CPN-GI</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7309440712896</id>
+    <published>2022-07-16T08:22:53-07:00</published>
+    <updated>2022-07-16T08:22:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/skin-coat-relief-kit-for-cats"/>
+    <title>Skin &amp; Coat Relief Kit For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_scReliefKit_cat_cover_new.png?v=1658175568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong data-mce-fragment="1">FOR USE WITH A<span data-mce-fragment="1"> </span><a href="https://animalbiome.vet/collections/test-kits" data-mce-fragment="1" data-mce-href="https://animalbiome.vet/collections/test-kits">GUT MICROBIOME HEALTH TEST</a></strong> </p>
+<p><meta charset="utf-8"><span>Provides relief of clinical signs associated with dermatological symptoms including: pruritus, atopy, hot spots, and otitis in cats. Each kit contains a 15 day supply of Skin &amp; Coat Relief supplement and Gut Restore FMT Capsules supplement for use while awaiting results of a gut microbiome health test (typically 10-15 days to get test results). Use the Skin &amp; Coat Relief Kit as a microbiome-friendly alternative to traditional skin and coat relief treatments. Both supplements contain small-sized capsules for cats.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7309440712896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AB-VRKCL015CPN-SC</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7266109784256</id>
+    <published>2022-05-18T15:35:47-07:00</published>
+    <updated>2022-05-18T15:35:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/gut-cleanse-powder-for-cats-pumpkin-flavored"/>
+    <title>Gut Cleanse Powder For Cats (Pumpkin Flavored)</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutCleanse_cat_cover.png?v=1660351428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="61a96e83886e0400cee2378d" data-shogun-platform-type="shopify" data-shogun-page-version-id="61a96e83886e0400cee236f9" data-shogun-page-id="61a6abb5fead3000efc1bf08" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="61a6abb5fead3000efc1bf08" class="shogun-root">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div class="shg-c" id="s-23900a3a-390c-49d2-ac40-6f31bb92bbc0">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content"><strong></strong><meta charset="utf-8"><strong></strong> <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Prebiotic phage designed to reduce unhealthy levels of </span><i data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">E. coli</span></i><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> in the gut microbiome. This supplement is intended for cats with an overgrowth of </span><i data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">E. coli</span></i><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> bacteria identified by a Gut Microbiome Health Test.</span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7266109784256</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>AB-VSICL030PWN-PM</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7245649084608</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-bulk-pack-20"/>
+    <title>Gut Health Test - 20 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_20.png?v=1657512984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            1980.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-region="main">
+<div id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e" class="shg-c">
+<div data-region="main" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-shogun-platform-type="shopify" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60da049703beca00d434ae22" class="shogun-root">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div class="shg-c" id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 20-Test Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGDL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Dog Tests &amp; 5 Cat Test</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-01</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>10 Cat Tests &amp; 10 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-02</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>15 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGML020GTN-03</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245649084608</id>
+      <title>20 Cat Tests</title>
+      <s:price currency="USD">1980.00</s:price>
+      <s:sku>AB-VBGCL020GTN-00</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7245384876224</id>
+    <published>2022-04-30T19:14:28-07:00</published>
+    <updated>2022-04-30T19:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack-10"/>
+    <title>Gut Health Test - 10 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_10.png?v=1657512951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="60ebdff3373b9f00ea1b150e" data-shogun-platform-type="shopify" data-shogun-page-version-id="60ebdff3373b9f00ea1b150c" data-shogun-page-id="60ebdff3373b9f00ea1b150d" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-id="60ebdff3373b9f00ea1b150d" class="shogun-root">
+<div class="shg-c" id="s-e1e98f5b-5db0-4df1-92cf-2d178192dc2e">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-platform-type="shopify" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<p class="shg-rich-text shg-theme-text-content"><meta charset="utf-8"> <strong></strong> <span>Save money with a 10 Pack Bulk Pack! </span>Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.<br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGDL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>5 Cat Tests &amp; 5 Dog Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGML010GTN-03</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7245384876224</id>
+      <title>10 Cat Tests</title>
+      <s:price currency="USD">990.00</s:price>
+      <s:sku>AB-VBGCL010GTN-00</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469949632</id>
+    <published>2021-12-09T11:19:15-08:00</published>
+    <updated>2021-12-09T11:19:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-feline"/>
+    <title>Powdered Fecal Material for Transplant via Enema (Feline)</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_enema_cat_10_cover.png?v=1659483744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            158.33 - 541.67
+            <a href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-feline">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Our powdered feline fecal material is sourced from extensively screened healthy cat donors and used for fecal transplants via enema by veterinarians.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>10g</title>
+      <s:price currency="USD">158.33</s:price>
+      <s:sku>AB-VSICL010ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>25g</title>
+      <s:price currency="USD">291.67</s:price>
+      <s:sku>AB-VSICL025ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>75g</title>
+      <s:price currency="USD">541.67</s:price>
+      <s:sku>AB-VSICL075ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018467000512</id>
+    <published>2021-12-09T11:19:15-08:00</published>
+    <updated>2021-12-09T11:19:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-s-boulardii-fos-powder-for-cats"/>
+    <title>S. boulardii + FOS Powder For Cats</title>
+    <s:type>Daily Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_sbou_cat_cover.png?v=1660351288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Daily Supplement<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9e9e9eba5300cb58bf71" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9e9e9eba5300cb58bf71" data-shogun-page-version-id="63ae1769844d7e01129ff23e" data-shogun-platform-type="shopify" data-shogun-variant-id="63ae1769844d7e01129ff245" data-region="main">
+  
+<div id="s-f98061cd-c4bd-416e-8e01-35c93ca4e97f" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content"><p><span style="font-weight: 400;">A probiotic and prebiotic powder for cats, designed to improve stool consistency, reduce diarrhea, promote healthy skin, and support gut function</span><strong>. </strong><span style="font-weight: 400;">Recommended for daily use.</span></p></div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018467000512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>AB-VSIC030PWN-00</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469556416</id>
+    <published>2021-12-09T11:19:10-08:00</published>
+    <updated>2021-12-09T11:19:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-cats"/>
+    <title>FMT Gut Restore Capsules For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_cat_30_S_cover.png?v=1657521275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            95.00 - 165.00
+            <a href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-cats">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebd67dc73eec00ca86be04" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebd67dc73eec00ca86be04" data-shogun-page-version-id="60ebd789c73eec00d185e7cc" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebd78ac73eec00d185e88b" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-326660f8-51c0-477c-9dbc-cf2caba16a47" class="shg-c">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60da050941e3dd00d13f1f56" data-shogun-platform-type="shopify" data-shogun-variant-id="60da050941e3dd00d13f1fea" data-region="main">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Our science-backed supplement provides thousands of different kinds of healthy native bacteria to restore cat health and relieve digestive, skin, and immune health issues.</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469556416</id>
+      <title>30 Capsules</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>AB-VSICP030CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469556416</id>
+      <title>60 Capsules</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSICP060CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469228736</id>
+    <published>2021-12-09T11:19:08-08:00</published>
+    <updated>2021-12-09T11:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-for-cats"/>
+    <title>Gut Health Test For Cats</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_cat.png?v=1657513065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebd5f5117fa400d65d3cfe" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebd5f5117fa400d65d3cfe" data-shogun-page-version-id="60ebd65455253d00f9665913" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebd65455253d00f96659bb" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-4585a6bf-0e52-4d9a-bbdf-c53d767cbaba" class="shg-c">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60dcd48472d21b00ea09bead" data-shogun-platform-type="shopify" data-shogun-variant-id="60dcd48472d21b00ea09bf44" data-region="main">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<meta charset="utf-8">
+<p class="shg-rich-text shg-theme-text-content">Find out what’s really going on inside the cat’s digestive system. This test detects bacterial imbalances and provides actionable insights for personalized diet, supplement, or lifestyle changes to improve the cat’s health.</p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469228736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>AB-VSICL001GTN-00</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469097664</id>
+    <published>2021-12-09T11:19:08-08:00</published>
+    <updated>2021-12-09T11:19:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-health-test-bulk-pack"/>
+    <title>Gut Health Test - 5 Test Bulk Pack</title>
+    <s:type>Assessment</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_gutHealthTest_bulk_5.png?v=1657513040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Assessment<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Designed exclusively for veterinarians, the Bulk Pack includes five tests plus the supplies you need to collect stool samples from patients, and send them back to us for analysis. After we process the sample, you will receive results (via email and online) with actionable insights to restore your patient's gut health.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Test Kit</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGDL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Dog Tests &amp; 1 Cat Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-01</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Dog Tests &amp; 2 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-02</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>3 Cat Tests &amp; 2 Dog Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-03</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>4 Cat Tests &amp; 1 Dog Test</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGML005GTN-04</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469097664</id>
+      <title>5 Cat Tests</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>AB-VBGCL005GTN-00</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

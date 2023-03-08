@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/fmt-products.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2022-03-01T09:27:08-08:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7139405824192</id>
+    <published>2022-03-01T09:27:08-08:00</published>
+    <updated>2022-03-01T09:27:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-raw-fed-fmt-for-dogs"/>
+    <title>Raw-Fed FMT Capsules For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_dog_30_S_rawFed_cover.png?v=1657521884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our science-backed supplement provides thousands of healthy dog-specific bacteria to restore dog health and relieve digestive, skin, and immune health issues.<br><meta charset="utf-8"></p>
+<p>This product contains FMT material from naturally reared dogs raised on raw-fed diets and never treated with antibiotics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:tag>Secret Menu Item</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7139405824192</id>
+      <title>Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSIDP030CPL-NR</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7139405824192</id>
+      <title>Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSIDP030CPS-NR</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469949632</id>
+    <published>2021-12-09T11:19:15-08:00</published>
+    <updated>2021-12-09T11:19:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-feline"/>
+    <title>Powdered Fecal Material for Transplant via Enema (Feline)</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_enema_cat_10_cover.png?v=1659483744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            158.33 - 541.67
+            <a href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-feline">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Our powdered feline fecal material is sourced from extensively screened healthy cat donors and used for fecal transplants via enema by veterinarians.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>10g</title>
+      <s:price currency="USD">158.33</s:price>
+      <s:sku>AB-VSICL010ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>25g</title>
+      <s:price currency="USD">291.67</s:price>
+      <s:sku>AB-VSICL025ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469949632</id>
+      <title>75g</title>
+      <s:price currency="USD">541.67</s:price>
+      <s:sku>AB-VSICL075ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018470015168</id>
+    <published>2021-12-09T11:19:14-08:00</published>
+    <updated>2021-12-09T11:19:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-canine"/>
+    <title>Powdered Fecal Material for Transplant via Enema (Canine)</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_enema_dog_15g_cover.png?v=1659483588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            62.50 - 291.67
+            <a href="https://animalbiome.vet/products/animalbiome-powdered-fecal-material-for-transplant-via-enema-canine">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our powdered canine fecal material is sourced from extensively screened healthy dog donors and used for fecal transplants via enema by veterinarians.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>15g</title>
+      <s:price currency="USD">62.50</s:price>
+      <s:sku>AB-VSIDL015ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>30g</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AB-VSIDL030ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>50g</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDL050ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>75g</title>
+      <s:price currency="USD">166.67</s:price>
+      <s:sku>AB-VSIDL075ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>100g</title>
+      <s:price currency="USD">208.33</s:price>
+      <s:sku>AB-VSIDL100ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470015168</id>
+      <title>150g</title>
+      <s:price currency="USD">291.67</s:price>
+      <s:sku>AB-VSIDL150ENN-00</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469621952</id>
+    <published>2021-12-09T11:19:10-08:00</published>
+    <updated>2021-12-09T11:19:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-dogs"/>
+    <title>FMT Gut Restore Capsules For Dogs</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_dog_30_S_cover.png?v=1657521491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            125.00 - 225.00
+            <a href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-dogs">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Our science-backed supplement provides thousands of healthy native bacteria to restore dog health and relieve digestive, skin, and immune health issues.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Dogs</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>30 Capsules / Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDP030CPL-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>30 Capsules / Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>AB-VSIDP030CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>60 Capsules / Large (for dogs over 20 lbs)</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>AB-VSIDP060CPL-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469621952</id>
+      <title>60 Capsules / Small (for dogs under 20 lbs)</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>AB-VSIDP060CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018469556416</id>
+    <published>2021-12-09T11:19:10-08:00</published>
+    <updated>2021-12-09T11:19:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-cats"/>
+    <title>FMT Gut Restore Capsules For Cats</title>
+    <s:type>Premium Supplement</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_grs_cat_30_S_cover.png?v=1657521275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Premium Supplement<br>
+        <strong>Price: </strong>
+            95.00 - 165.00
+            <a href="https://animalbiome.vet/products/animalbiome-gut-restore-supplement-for-cats">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="60ebd67dc73eec00ca86be04" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60ebd67dc73eec00ca86be04" data-shogun-page-version-id="60ebd789c73eec00d185e7cc" data-shogun-platform-type="shopify" data-shogun-variant-id="60ebd78ac73eec00d185e88b" data-region="main">
+<script async="" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div id="s-326660f8-51c0-477c-9dbc-cf2caba16a47" class="shg-c">
+<div class="shogun-root" data-shogun-id="60da049703beca00d434ae22" data-shogun-site-id="e0fe1c51-50a3-4d21-bfff-e1d60b2a0674" data-shogun-page-id="60da049703beca00d434ae22" data-shogun-page-version-id="60da050941e3dd00d13f1f56" data-shogun-platform-type="shopify" data-shogun-variant-id="60da050941e3dd00d13f1fea" data-region="main">
+<script type="text/javascript" src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" async=""></script>
+<div id="s-dd8f129b-37b2-4d9b-90d3-7acee3b25fcf" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Our science-backed supplement provides thousands of different kinds of healthy native bacteria to restore cat health and relieve digestive, skin, and immune health issues.</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>For Cats</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469556416</id>
+      <title>30 Capsules</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>AB-VSICP030CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018469556416</id>
+      <title>60 Capsules</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>AB-VSICP060CPS-00</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

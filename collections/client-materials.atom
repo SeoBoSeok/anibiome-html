@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/client-materials.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2022-09-22T14:25:10-07:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7353655853248</id>
+    <published>2022-09-22T14:25:10-07:00</published>
+    <updated>2022-09-22T14:25:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-veterinary-brochure-for-skin-coat-cases"/>
+    <title>AnimalBiome Veterinary Brochure for Skin &amp; Coat Cases (50 Brochures)</title>
+    <s:type>Promotional</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_brochure_sc.png?v=1663881489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Promotional<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Provide your clients with additional information on how AnimalBiome Veterinary can help with their pet’s skin &amp; coat issues using these informational brochures.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Client Materials</s:tag>
+    <s:tag>Promotional</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7353655853248</id>
+      <title>50 Brochures</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AB-VMKMC050BRN-SC</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7018470047936</id>
+    <published>2022-09-22T14:25:02-07:00</published>
+    <updated>2022-09-22T14:25:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-brochures-for-pet-parents"/>
+    <title>AnimalBiome Veterinary Brochure for GI Cases (50 Brochures)</title>
+    <s:type>Promotional</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_brochure_gi.png?v=1663806673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Promotional<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Provide your clients with additional information on how AnimalBiome Veterinary can help with their pet’s GI issues using these informational brochures.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Client Materials</s:tag>
+    <s:tag>Promotional</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7018470047936</id>
+      <title>50 Brochures</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AB-VMKMC050BRN-GI</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

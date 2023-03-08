@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://animalbiome.vet/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://animalbiome.vet/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://animalbiome.vet/collections/starter-bundles.atom"/>
+  <title>AnimalBiome Veterinary</title>
+  <updated>2022-01-09T22:56:45-08:00</updated>
+  <author>
+    <name>AnimalBiome Veterinary</name>
+  </author>
+  <entry>
+    <id>https://animalbiome.vet/products/7101644505280</id>
+    <published>2022-01-09T22:56:45-08:00</published>
+    <updated>2022-01-09T22:56:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-platinum-starter-bundle"/>
+    <title>Platinum Starter Bundle</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_bundle_platinum.png?v=1674870250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="63d8034011853b00f1207060" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="63d8034011853b00f1207060" data-shogun-page-version-id="63d804349fab9b00e3ff1682" data-shogun-platform-type="shopify" data-shogun-variant-id="63d804349fab9b00e3ff1689" data-region="main">
+  
+<div id="s-689b101b-c90d-4b39-b4e8-7f2c82038893" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>The Platinum Starter Bundle is a fully customizable bundle of products designed to help you get started. Purchasing a Platinum Starter Bundle grants immediate access to the AnimalBiome Veterinary's Platinum program. Veterinarians in the Platinum program get 40% off all supplements and up to 50% off test products.</p>
+<p><strong>To configure and purchase a Platinum Starter Bundle, please contact <a href="mailto:team@animalbiome.vet">team@animalbiome.vet</a>.</strong></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>Starter Bundle</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7101644505280</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://animalbiome.vet/products/7101643784384</id>
+    <published>2022-01-09T22:56:29-08:00</published>
+    <updated>2022-01-09T22:56:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://animalbiome.vet/products/animalbiome-gold-starter-bundle"/>
+    <title>Gold Starter Bundle</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>AnimalBiome Veterinary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/5817/7216/products/abVet_pdp_bundle_gold.png?v=1674869501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AnimalBiome Veterinary<br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638f9f492a7bb900ee8910e4" data-shogun-site-id="506a848c-6c28-428a-addb-e7ab9bb5d8c9" data-shogun-page-id="638f9f492a7bb900ee8910e4" data-shogun-page-version-id="63d8045511853b00dc202f38" data-shogun-platform-type="shopify" data-shogun-variant-id="63d8045511853b00dc202f3f" data-region="main">
+  
+<div id="s-7066c40c-5b5e-4ea2-8d41-ad297da478b2" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<div id="s-77fa19f6-5b04-4f28-8ff4-eb4f4651e8a5" class="shg-c"><span data-sanitized-data-mce-fragment="1">The Gold Starter Bundle is a fully customizable bundle of products designed to help you get started. Purchasing a Gold Starter Bundle grants immediate access to the AnimalBiome Veterinary's Gold program. Veterinarians in the Gold program get 35% off all supplements and up to 45% off test products. </span></div>
+<div class="shg-c"> </div>
+<div class="shg-c"><span data-sanitized-data-mce-fragment="1"><strong>To configure and purchase a Gold Starter Bundle, please contact <a href="mailto:team@animalbiome.vet">team@animalbiome.vet</a>.</strong></span></div>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>All Products</s:tag>
+    <s:tag>Starter Bundle</s:tag>
+    <s:variant>
+      <id>https://animalbiome.vet/products/7101643784384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+</feed>
